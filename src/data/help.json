@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "icon":"../../images/community.png",
+        "title":"Community Forum",
+        "description":"Find answers or join the conversation"
+    },
+    {
+        "id":2,
+        "icon":"../../images/resolution_center.png",
+        "title":"Resolution Center",
+        "description":"Resolve transactions or account issues"
+    },
+    {
+        "id":3,
+        "icon":"../../images/contact_us.png",
+        "title":"Contact Us",
+        "description":"Contact customer service"
+    }
+]

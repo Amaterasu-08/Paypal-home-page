@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "icon":"../../images/resolution.png",
+        "title":"Resolution Center",
+        "description":"Resolve transaction or account issues"
+    },
+    {
+        "id":2,
+        "icon":"../../images/ask_community.png",
+        "title":"Ask the Community",
+        "description":"Find answers or join the conversation"
+    },
+    {
+        "id":3,
+        "icon":"../../images/message.png",
+        "title":"Message Center",
+        "description":"Send, receive, and view your PayPal messages"
+    }
+]
